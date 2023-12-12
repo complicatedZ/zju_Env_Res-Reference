@@ -4,6 +4,7 @@ ___
 
 ## 使用方法
 下载zju-Env & Res.csl导入zotero即可
+适用win/mac
 
 ## 功能
 对于文中引用
