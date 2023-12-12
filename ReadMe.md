@@ -1,8 +1,9 @@
 # Zju Env & Res Reference for Zotero
 鉴于环资奇奇怪怪的参考文献引用要求，在前人的基础上改了一个符合引用要求的插件
 ___
-##
-使用方法，下载zju-Env & Res.csl导入zotero即可
+
+## 使用方法
+下载zju-Env & Res.csl导入zotero即可
 
 ## 功能
 对于文中引用
