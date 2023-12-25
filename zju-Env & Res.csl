@@ -282,7 +282,7 @@
         </group>
       </else-if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
-        <group prefix=". " delimiter=", ">
+        <group prefix=". " delimiter=", " suffix=".">
           <choose>
             <if variable="container-title">
               <text variable="container-title" text-case="title" font-style="normal"/>
